@@ -1,4 +1,4 @@
-# phevolutioncapital-tutorials-docker
+# ph Evolution Capital / Tutorials / Docker
 This repo provides a Hello Word Example for containerizing Java Spring Boot Applications with docker. 
 
 ## Prerequisites
