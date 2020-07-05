@@ -15,3 +15,5 @@ This repo provides a Hello Word Example for containerizing Java Spring Boot Appl
 ## Run container:
 - docker run -p 8080:8080 [IMAGE NAME]
 
+## Success: 
+Open localhost:8080 in your browser and you'll see "Hallo Welt!". 
