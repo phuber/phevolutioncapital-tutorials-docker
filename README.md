@@ -2,7 +2,7 @@
 This repo provides a Hello Word Example for containerizing Java Spring Boot Applications with docker. 
 
 ## Prerequisites
-- [Docker|https://www.docker.com/get-started] must be installed, docker daemon must be up and running
+- [Docker](https://www.docker.com/get-started) must be installed, docker daemon must be up and running
 
 ## Build container image with docker build:
 - mvn package
